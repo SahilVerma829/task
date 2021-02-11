@@ -23,12 +23,9 @@ const getData=()=>{
     getData()
     },[])
 
-    const [model,setModel]=useState(1)
+    
     const updateUser =(uid,utitle,ubody)=>{
-        setModel(0)
         <Updateform />
-        
-       
 }
 
     return(         
